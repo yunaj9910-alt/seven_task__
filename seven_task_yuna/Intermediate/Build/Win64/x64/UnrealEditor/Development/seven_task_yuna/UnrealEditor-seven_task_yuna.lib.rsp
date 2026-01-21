@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-seven_task_yuna.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jyn99\Documents\Unreal Projects\seven_task\seven_task_yuna\Intermediate\Build\Win64\x64\seven_task_yunaEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\jyn99\Documents\Unreal Projects\seven_task\seven_task_yuna\Intermediate\Build\Win64\x64\UnrealEditor\Development\seven_task_yuna\seven_task_yuna.init.gen.cpp.obj"
+"C:\Users\jyn99\Documents\Unreal Projects\seven_task\seven_task_yuna\Intermediate\Build\Win64\x64\UnrealEditor\Development\seven_task_yuna\SpartaPlayerController.gen.cpp.obj"
+"C:\Users\jyn99\Documents\Unreal Projects\seven_task\seven_task_yuna\Intermediate\Build\Win64\x64\UnrealEditor\Development\seven_task_yuna\Sparta_Character.gen.cpp.obj"
+"C:\Users\jyn99\Documents\Unreal Projects\seven_task\seven_task_yuna\Intermediate\Build\Win64\x64\UnrealEditor\Development\seven_task_yuna\Sparta_GameMode.gen.cpp.obj"
+"C:\Users\jyn99\Documents\Unreal Projects\seven_task\seven_task_yuna\Intermediate\Build\Win64\x64\UnrealEditor\Development\seven_task_yuna\seven_task_yuna.cpp.obj"
+"C:\Users\jyn99\Documents\Unreal Projects\seven_task\seven_task_yuna\Intermediate\Build\Win64\x64\UnrealEditor\Development\seven_task_yuna\SpartaPlayerController.cpp.obj"
+"C:\Users\jyn99\Documents\Unreal Projects\seven_task\seven_task_yuna\Intermediate\Build\Win64\x64\UnrealEditor\Development\seven_task_yuna\Sparta_Character.cpp.obj"
+"C:\Users\jyn99\Documents\Unreal Projects\seven_task\seven_task_yuna\Intermediate\Build\Win64\x64\UnrealEditor\Development\seven_task_yuna\Sparta_GameMode.cpp.obj"
+"C:\Users\jyn99\Documents\Unreal Projects\seven_task\seven_task_yuna\Intermediate\Build\Win64\x64\UnrealEditor\Development\seven_task_yuna\PerModuleInline.gen.cpp.obj"
+"C:\Users\jyn99\Documents\Unreal Projects\seven_task\seven_task_yuna\Intermediate\Build\Win64\x64\UnrealEditor\Development\seven_task_yuna\Default.rc2.res"
+/OUT:"C:\Users\jyn99\Documents\Unreal Projects\seven_task\seven_task_yuna\Intermediate\Build\Win64\x64\UnrealEditor\Development\seven_task_yuna\UnrealEditor-seven_task_yuna.lib"
